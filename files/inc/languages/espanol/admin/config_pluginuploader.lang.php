@@ -13,13 +13,13 @@
  * limitations under the License.
 **/
 $l['pluginuploader'] = "Plugin Uploader";
-$l['pluginuploader_upload_plugin'] = "Upload Plugin";
-$l['pluginuploader_upload_plugin_desc'] = "Import a plugin to your forum; upload a .zip or .php file, the URL to an attachment, or import from the MyBB Mods Site";
+$l['pluginuploader_upload_plugin'] = "Subir Plugin";
+$l['pluginuploader_upload_plugin_desc'] = "Importa un plugin a tu foro; sube un archivo .zip o .php, la URL de un adjunto, o importa directamente desde el sitio de Mods de MyBB";
 $l['pluginuploader_plugin'] = "Plugin";
-$l['pluginuploader_plugin_file'] = "File Upload";
-$l['pluginuploader_plugin_file_desc'] = "Browse for the plugin to upload. It must be a .zip archive or a single .php plugin file.";
+$l['pluginuploader_plugin_file'] = "Subir archivo";
+$l['pluginuploader_plugin_file_desc'] = "Busca el archivo a subir. Debe ser un archivo .zip o un plugin .php.";
 $l['pluginuploader_plugin_url'] = "URL";
-$l['pluginuploader_plugin_url_desc'] = "Enter the URL of a plugin on the MyBB Mods site or the direct URL to a zip/attachment for a plugin.";
+$l['pluginuploader_plugin_url_desc'] = "Introduce la URL del plugin del sitio de Mods de MyBB o la URL directa al archivo zip.";
 $l['pluginuploader_plugin_mods_site'] = "Mods Site";
 $l['pluginuploader_plugin_mods_site_desc'] = "<a href=\"index.php?module=config-plugins&action=browse\">Browse the Mods Site database</a> and install straight to your forum. <a href=\"index.php?module=config-plugins&action=pluginuploader&action2=mods_site_integration\">More information</a>.";
 $l['pluginuploader_plugin_mods_site_unavailable_desc'] = "Mods Site integration is unavailable for your forum. <a href=\"index.php?module=config-plugins&action=pluginuploader&action2=mods_site_integration\">More information</a>.";
